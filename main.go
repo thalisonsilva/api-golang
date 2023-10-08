@@ -1,9 +1,10 @@
 package main
 
-import "fmt"
+import (
+	router "github.com/thalisonsilva/api-golang/router"
+)
 
 func main() {
-	fmt.Printf("olá Thalison")
-	fmt.Printf("trast")
-
+	//Initialize Router
+	router.Initialize()
 }
