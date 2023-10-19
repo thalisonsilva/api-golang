@@ -32,7 +32,7 @@ func initializeRoutes(router *gin.Engine) {
 			})
 		})
 
-		v1.GET("/openings", func(ctx *gin.Context) { // Modificado para "/openings"
+		v1.GET("/openings", func(ctx *gin.Context) { // Modification para "/openings"
 			ctx.JSON(http.StatusOK, gin.H{
 				"msg": "GET Openings",
 			})
