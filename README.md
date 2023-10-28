@@ -102,10 +102,6 @@ To contribute to this project, please follow these guidelines:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Credits
 
 This project was created by [arthur404dev](https://github.com/arthur404dev).
