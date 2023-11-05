@@ -7,4 +7,7 @@ import (
 func main() {
 	//Initialize Router
 	router.Initialize()
+	router.Initialize()
+	//Create Router
+
 }
