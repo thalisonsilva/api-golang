@@ -1,1 +1,0 @@
-package apigolang_test
