@@ -20,11 +20,7 @@ This project is a modern job opportunities API built using Golang, currently one
 - Integrating Swagger for API documentation and testing
 - Creating a modern package structure for organizing the project
 - Implementing a complete job opportunities API with endpoints for searching, creating, editing, and deleting opportunities
-- Implementing automated tests to ensure API quality
-
-## Live Version
-
-You can check the documentation and perform tests to the API by visiting the live version hosted at [gopportunities.excalidevs.com](https://gopportunities.excalidevs.com/swagger/index.html).
+- Implementing automated tests to ensure API quality.
 
 
 ## Installation:
