@@ -63,10 +63,6 @@ If you want to use Docker Compose, follow these commands:
 
 To stop and remove containers, networks, and volumes defined in the `docker-compose.yml` file, run:
 
-```sh
-docker-compose down
-```
-
 For more information on Docker and Docker Compose, refer to the official documentation:
 
 - [Docker](https://docs.docker.com/)
