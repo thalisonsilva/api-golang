@@ -45,8 +45,8 @@ The project includes a Makefile to help you manage common tasks more easily. Her
 
 To use these commands, simply type `make` followed by the desired command in your terminal. For example:
 
-```sh
-make run
+```
+
 ```
 
 ## Docker and Docker Compose
