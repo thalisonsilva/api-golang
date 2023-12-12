@@ -8,9 +8,5 @@ func main() {
 	//Initialize Router
 	router.Initialize()
 	router.Initialize()
-	// Canal()
-	//Create Router
 
-	//canias
-	
 }
