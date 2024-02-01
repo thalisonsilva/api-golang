@@ -10,3 +10,6 @@ func main() {
 	router.Initialize()
 
 }
+func Initialize() {
+
+}
