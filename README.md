@@ -5,7 +5,6 @@
   ![fiveyears](https://github.com/thalisonsilva/api-golang/assets/129459647/60839248-73f7-40b9-9cf1-769a53adb9bd)
 
 </p>
-
 This project is a modern job opportunities API built using Golang, currently one of the highest paying programming languages. The API is powered by Go-Gin as a router, GoORM for database communication, SQLite as the database, and Swagger for API documentation and testing. The project follows a modern package structure to keep the codebase organized and maintainable.
 
 ----
