@@ -10,7 +10,7 @@ func initializeRoutes(router *gin.Engine) {
 	{
 		v1.GET("/opening", func(ctx *gin.Context) {
 			ctx.JSON(http.StatusOK, gin.H{
-				"msg": "GET Opening",
+				"msg": "GET Opening", //
 			})
 		})
 
